@@ -4,8 +4,8 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = Brye
-	email = brye@bryndr.sn
+	name = Maeve Andersen
+	email = mv@ndr.sn
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
