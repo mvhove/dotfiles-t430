@@ -1,1 +1,2 @@
-# mvhove
+# dotfiles
+This repo contains my dotfiles for my heavily modified Thinkpad T430 that I affectionately call "chonkpad." This began as a project computer in the summer of 2021 to familarize myself with Arch Linux and hardware modding, but remains my main computer to this day.
